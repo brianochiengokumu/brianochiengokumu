@@ -75,6 +75,8 @@ Nairobi, KE
 
 https://drive.google.com/file/d/15sZ-kfm6le7aF_6axilAIudwzuBxnLBC/view?usp=drivesdk
 
+## My GitHub Stats:
+
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=brianochiengokumu&show_icons=true&hide_border=true" />
 
 [website]: https://brianochiengokumu.com
