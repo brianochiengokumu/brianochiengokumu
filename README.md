@@ -92,7 +92,7 @@ https://drive.google.com/file/d/15sZ-kfm6le7aF_6axilAIudwzuBxnLBC/view?usp=drive
 [facebook]: https://facebook.com/brianochiengokumu
 [instagram]: https://instagram.com/brianochiengikumu
 [linkedin]: https://linkedin.com/in/brianochiengokumu
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[webdevplaylist]: https://github.com/brianochiengokumu/To-Do-List-App
+[jsplaylist]: https://github.com/brianochiengokumu/angular-Ecommerce-website
+[cssplaylist]: https://github.com/brianochiengokumu/react_pwa_app
+[reactplaylist]: https://github.com/brianochiengokumu/react_pwa_app
