@@ -1,7 +1,7 @@
 ### Hi there, I'm Ochieng' - aka [BrianOchiengOkumu][website] 👋
 
 [![Website](https://www.linkedin.com/in/brianochiengokumu/)](https://www.linkedin.com/in/brianochiengokumu/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Ochieng___?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbrianochiengokumu&screen_name=brianochiengokumu)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Ochieng___?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Ochieng___&screen_name=Ochieng___)
 
 brianochiengokumu@gmail.com
 (254)712004625
