@@ -85,6 +85,7 @@ Nairobi, KE
 https://drive.google.com/file/d/15sZ-kfm6le7aF_6axilAIudwzuBxnLBC/view?usp=drivesdk
 
 [website]: https://brianochiengokumu.com
+[github]: https://github.com/brianochiengokumu
 [twitter]: https://twitter.com/Ochieng___
 [youtube]: https://youtube.com/brianochiengokumu
 [email]: https://brianochiengokumu@gmail.com
