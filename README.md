@@ -3,7 +3,7 @@
 [![Website](https://www.linkedin.com/in/brianochiengokumu/)](https://www.linkedin.com/in/brianochiengokumu/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ochieng___?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Ochieng___&screen_name=Ochieng___)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Entrepreneur, Developer, and Teacher!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
