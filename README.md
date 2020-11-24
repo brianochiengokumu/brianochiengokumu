@@ -1,5 +1,10 @@
 ### Hi there 👋, I'm Ochieng' - aka [BrianOchiengOkumu][website]
 
+brianochiengokumu@gmail.com
+(254)712004625
+Nairobi, KE
+[Github](github.com/brianochiengokumu) | [LinkedIn](linkedin.com/in/brianochiengokumu/)
+
 ![Website](https://img.shields.io/website?label=brianochiengokumu&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ochieng___?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Ochieng___)
 
@@ -56,18 +61,13 @@
 
 <br />
 <br />
-
+<!--
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
----
-
-brianochiengokumu@gmail.com
-(254)712004625
-Nairobi, KE
-[Github](github.com/brianochiengokumu) | [LinkedIn](linkedin.com/in/brianochiengokumu/)
+--- -->
 
 ## Technologies:
 
