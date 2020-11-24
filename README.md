@@ -1,7 +1,11 @@
 ### Hi there 👋, I'm Ochieng' - aka [BrianOchiengOkumu][website]
 
+![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://brianochiengokumu.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Ochieng___&screen_name=Ochieng___)
+
+<!--
 [![Website](https://www.linkedin.com/in/brianochiengokumu/)](https://www.linkedin.com/in/brianochiengokumu/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Ochieng___?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Ochieng___&screen_name=Ochieng___)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Ochieng___?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Ochieng___&screen_name=Ochieng___) -->
 
 ## I'm a Entrepreneur, Developer, and Traveller!!
 
@@ -90,16 +94,6 @@ _Bachelor of Business information Technology_
 **Sawagongo High School**
 _High school_
 _Grade A-_
-
-## Interests:
-
--Developing Web Apps, scripting and running test labs.
-
-- Reading technology Journals, blogs and attending tech events.
-- Currently Learning about SEO, MPesa integration, Batch SMS and testing.
-- Traveling and Streaming the latest tech and Business news online.
-  -Discovering new hobbies in being a tech YouTuber and Podcaster
-- Traveling
 
 ## Link to resume:
 
