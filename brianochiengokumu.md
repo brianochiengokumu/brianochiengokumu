@@ -1,13 +1,13 @@
 ##Brian Ochieng' Okumu
 
-brianochiengokumu@gmail.com  
-(254)712004625 
-Nairobi, KE 
+brianochiengokumu@gmail.com
+(254)712004625
+Nairobi, KE
 [Github](github.com/brianochiengokumu) | [LinkedIn](linkedin.com/in/brianochiengokumu/)
 
 ## Technologies:
 
-**Proficient:** JavaScript, Node.js, HTML5, CSS3, SCSS, Angular, React, Redux, Express, MongoDB, MySQL, Semantic UI, Git, React-Native, PostgreSQL, Firebase  
+**Proficient:** JavaScript, Node.js, HTML5, CSS3, SCSS, Angular, React, Redux, Express, MongoDB, MySQL, Semantic UI, Git, React-Native, PostgreSQL, Firebase
 **Knowledgeable:** Mocha, Chai, Bootstrap4, JQuery, OAuth, Docker, Ansible, AWS, GCP, Azure, Nodejs
 
 ## Projects:
@@ -15,8 +15,8 @@ Nairobi, KE
 
 ## Experience:
 
-**LVCTHEALTH.**  
-Hurlingham, Nairobi, KE  
+**LVCTHEALTH.**
+Hurlingham, Nairobi, KE
 _Strategic Information_, March 2019- July2019
 
 ● Managed forms by the creation of concepts and adding escape logic in JavaScript using the OpenMRS’
@@ -34,7 +34,7 @@ introduction to the API and using REDCap for data entry.
 
 ## Education:
 
-**Jommo Kenyatta University of agriculture and Technology**, 2019  
+**Jommo Kenyatta University of agriculture and Technology**, 2019
 _Bachelor of Business information Technology_
 _Graduated with Second class upper division
 
@@ -56,25 +56,3 @@ _Grade A-_
 https://drive.google.com/file/d/15sZ-kfm6le7aF_6axilAIudwzuBxnLBC/view?usp=drivesdk
 
 
-REFEREES:
-1. Fred Maxwell Chune
-School of Business Dean
-JKUAT Main Campus
-Mobile: 0722447806
-Email: fnchune@yahoo.com
-2. Francis O. Hwaga
-Director of Information
-Department of Information
-Ministry of Information Communications and Technology
-Tel:334650/2/88
-Email: di@information.go.ke
-3. Christian Bernard Ochieng
-Strategic Information Manager
-LVCT Health
-Mobile: 0726644112
-Email: christian.ochieng@lvcthealth.org
-4. Ricky Kitsao
-HMIS Specialist
-LVCT Health
-Mobile: 0722210700
-Email: ricky.kitsao@lvcthealth.org
