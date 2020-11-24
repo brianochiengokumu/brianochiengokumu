@@ -5,7 +5,7 @@
 
 ## I'm a Entrepreneur, Developer, and Traveller!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 Currently Developing Web Apps, scripting and running test labs
 - 🌱 I’m currently learning SEO, Mpesa intergration, Batch SMS, and Testing 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
