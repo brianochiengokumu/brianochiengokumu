@@ -61,9 +61,10 @@ Nairobi, KE
 <br />
 
 **Proficient:** JavaScript, Node.js, HTML5, CSS3, SCSS, Angular, React, Redux, Express, MongoDB, MySQL, Semantic UI, Git, React-Native, PostgreSQL, Firebase
+<br />
+
 **Knowledgeable:** Mocha, Chai, Bootstrap4, JQuery, OAuth, Docker, Ansible, AWS, GCP, Azure, Nodejs
 
-<br />
 <br />
 
 <!-- # Blog posts
