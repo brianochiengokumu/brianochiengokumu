@@ -1,4 +1,7 @@
-##Brian Ochieng' Okumu
+### Hi there, I'm Ochieng' - aka [BrianOchiengOkumu][website] 👋
+
+[![Website](https://www.linkedin.com/in/brianochiengokumu/)](https://www.linkedin.com/in/brianochiengokumu/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Ochieng___?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbrianochiengokumu&screen_name=brianochiengokumu)
 
 brianochiengokumu@gmail.com
 (254)712004625
@@ -11,7 +14,6 @@ Nairobi, KE
 **Knowledgeable:** Mocha, Chai, Bootstrap4, JQuery, OAuth, Docker, Ansible, AWS, GCP, Azure, Nodejs
 
 ## Projects:
-
 
 ## Experience:
 
@@ -36,7 +38,7 @@ introduction to the API and using REDCap for data entry.
 
 **Jommo Kenyatta University of agriculture and Technology**, 2019
 _Bachelor of Business information Technology_
-_Graduated with Second class upper division
+\_Graduated with Second class upper division
 
 **Sawagongo High School**
 _High school_
@@ -45,14 +47,13 @@ _Grade A-_
 ## Interests:
 
 -Developing Web Apps, scripting and running test labs.
+
 - Reading technology Journals, blogs and attending tech events.
 - Currently Learning about SEO, MPesa integration, Batch SMS and testing.
 - Traveling and Streaming the latest tech and Business news online.
--Discovering new hobbies in being a tech YouTuber and Podcaster
+  -Discovering new hobbies in being a tech YouTuber and Podcaster
 - Traveling
 
 ## Link to resume:
 
 https://drive.google.com/file/d/15sZ-kfm6le7aF_6axilAIudwzuBxnLBC/view?usp=drivesdk
-
-
