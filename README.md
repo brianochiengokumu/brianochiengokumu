@@ -1,4 +1,4 @@
-### Hi there, I'm Ochieng' - aka [BrianOchiengOkumu][website] 👋
+### Hi there 👋, I'm Ochieng' - aka [BrianOchiengOkumu][website]
 
 [![Website](https://www.linkedin.com/in/brianochiengokumu/)](https://www.linkedin.com/in/brianochiengokumu/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ochieng___?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Ochieng___&screen_name=Ochieng___)
@@ -6,10 +6,10 @@
 ## I'm a Entrepreneur, Developer, and Traveller!!
 
 - 🔭 Currently Developing Web Apps, scripting and running test labs
-- 🌱 I’m currently learning SEO, Mpesa intergration, Batch-SMS, and Testing 🤣
+- 🌱 I’m currently learning SEO, Mpesa integration Batch-SMS, and Testing 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I qualify to be a level 1 chef.
+- ⚡ Fun fact: I'm a good ...
 
 ### Spotify Playing 🎧
 
@@ -17,16 +17,16 @@
 
 ### Connect with me:
 
-[<img align="left" alt="brianochiengokumu.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-[<img align="left" alt="Ochieng | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />]
-[<img align="left" alt="Ochieng | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-[<img align="left" alt="Ochieng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" alt="Ochieng | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
-[<img align="left" alt="Ochieng | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />]
+[<img align="left" alt="brianochiengokumu.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
+[<img align="left" alt="Ochieng | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="Ochieng | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Ochieng | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Ochieng | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ochieng | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
-### Languages and Tools:
+### Languages, Tools, and Technologies:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
@@ -116,7 +116,8 @@ https://drive.google.com/file/d/15sZ-kfm6le7aF_6axilAIudwzuBxnLBC/view?usp=drive
 
 [website]: https://brianochiengokumu.com
 [twitter]: https://twitter.com/Ochieng___
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://youtube.com/brianochiengokumu
+[email]: https://brianochiengokumu@gmail.com
 [facebook]: https://youtube.com/brianochiengokumu
 [instagram]: https://instagram.com/brianochiengikumu
 [linkedin]: https://linkedin.com/in/brianochiengokumu
