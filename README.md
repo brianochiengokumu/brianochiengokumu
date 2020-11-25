@@ -12,7 +12,7 @@ Nairobi, KE
 [![Website](https://www.linkedin.com/in/brianochiengokumu/)](https://www.linkedin.com/in/brianochiengokumu/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ochieng___?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Ochieng___&screen_name=Ochieng___) -->
 
-## I'm an Engineer, Developer and Entrepreneur!
+## I'm an Engineer, Developer, and Entrepreneur!
 
 - 🔭 Currently Developing web-apps, doing automations, scripting and running test labs
 - 🌱 I’m currently learning SEO, Mpesa integration Batch-SMS, and Testing 🤣
@@ -65,19 +65,19 @@ Nairobi, KE
 **Programming Languages:** JavaScript, Python, C++
 <br />
 
-**Frontend**: JavaScript, HTML5, CSS3, SCSS, Angular, React, Redux, UI
+**Frontend**: JavaScript, HTML5, CSS3, SCSS, Angular, React, Redux, UI.
 <br />
 
-**Backend:** Node.js Django
+**Backend:** Node.js, Django.
 <br />
 
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis.
 <br />
 
-**Devops Tools:** Docker, Kubernetes, Ansible, AWS GCP Azure.
+**Devops Tools:** Docker, Kubernetes, Ansible, AWS, GCP, Azure.
 <br />
 
-**Knowledgeable:** Mocha, Chai, Bootstrap4, JQuery, OAuth, Express
+**Knowledgeable:** Mocha, Chai, Bootstrap4, JQuery, OAuth, Express.
 <br />
 
 <!-- # Blog posts
@@ -87,11 +87,11 @@ Nairobi, KE
 
 <!-- ## Projects: -->
 
-## My GitHub Stats:
+### My GitHub Stats:
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=brianochiengokumu&show_icons=true&hide_border=true" />
 
-## Link to resume:
+### Link to resume:
 
 https://drive.google.com/file/d/15sZ-kfm6le7aF_6axilAIudwzuBxnLBC/view?usp=drivesdk
 
