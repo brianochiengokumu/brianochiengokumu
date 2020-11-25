@@ -65,7 +65,7 @@ Nairobi, KE
 **Programming Languages:** JavaScript, Python, C++, Linux(Bash)
 <br />
 
-**Preferred Environment**: Linux, MacOs(unix), Windows.
+**Preferred Environment**: Linux(Fedora), MacOs(unix), Windows10.
 <br />
 
 **Frontend**: JavaScript, HTML5, CSS3, SCSS, Angular10, React17, XD.
