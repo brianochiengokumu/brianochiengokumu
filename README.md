@@ -61,7 +61,7 @@ Nairobi, KE
 
 <br />
 <br />
-**Proficient:**
+**## Proficient:**
 <br />
 Programming Languages: JavaScript, Python, C++
 <br />
