@@ -12,13 +12,13 @@ Nairobi, KE
 [![Website](https://www.linkedin.com/in/brianochiengokumu/)](https://www.linkedin.com/in/brianochiengokumu/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ochieng___?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Ochieng___&screen_name=Ochieng___) -->
 
-## I'm a Entrepreneur, Developer, and Engineer!
+## I'm an Engineer, Developer and Entrepreneur!
 
 - 🔭 Currently Developing web-apps, doing automations, scripting and running test labs
 - 🌱 I’m currently learning SEO, Mpesa integration Batch-SMS, and Testing 🤣
 - 👯 I’m looking to collaborate with other Developers and engineers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I'm
+- ⚡ Fun fact: I'm an advocate of general knowledge
 
 ### Spotify Playing 🎧
 
@@ -60,13 +60,18 @@ Nairobi, KE
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
+<br />
 **Proficient:**
+<br />
 Programming Languages: JavaScript, Python, C++
+<br />
 Frontend: JavaScript, HTML5, CSS3, SCSS, Angular, React, Redux, UI
+<br />
 Backend: Node.js Django
+<br />
 Databases: PostgreSQL, MySQL, MongoDB, Redis
+<br />
 Devops Tools: Docker, Kubernetes, Ansible, AWS GCP Azure.
-
 <br />
 
 **Knowledgeable:** Mocha, Chai, Bootstrap4, JQuery, OAuth, Express
