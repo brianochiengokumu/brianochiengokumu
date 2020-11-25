@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ochieng' - aka [BrianOchiengOkumu][website]
 
 brianochiengokumu@gmail.com
-(254)712004625
+(+254)712004625
 Nairobi, KE
 [Github](github.com/brianochiengokumu) | [LinkedIn](linkedin.com/in/brianochiengokumu/)
 
@@ -12,13 +12,13 @@ Nairobi, KE
 [![Website](https://www.linkedin.com/in/brianochiengokumu/)](https://www.linkedin.com/in/brianochiengokumu/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Ochieng___?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Ochieng___&screen_name=Ochieng___) -->
 
-## I'm a Entrepreneur, Developer, and Traveller!!
+## I'm a Entrepreneur, Developer, and Engineer!
 
-- 🔭 Currently Developing Web Apps, scripting and running test labs
+- 🔭 Currently Developing web-apps, doing automations, scripting and running test labs
 - 🌱 I’m currently learning SEO, Mpesa integration Batch-SMS, and Testing 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other Developers and engineers
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I'm a good ...
+- ⚡ Fun fact: I'm
 
 ### Spotify Playing 🎧
 
@@ -58,12 +58,18 @@ Nairobi, KE
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+
+<br />
+**Proficient:**
+Programming Languages: JavaScript, Python, C++
+Frontend: JavaScript, HTML5, CSS3, SCSS, Angular, React, Redux, UI
+Backend: Node.js Django
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+Devops Tools: Docker, Kubernetes, Ansible, AWS GCP Azure.
+
 <br />
 
-**Proficient:** JavaScript, Node.js, HTML5, CSS3, SCSS, Angular, React, Redux, Express, MongoDB, MySQL, Semantic UI, Git, React-Native, PostgreSQL, Firebase
-<br />
-
-**Knowledgeable:** Mocha, Chai, Bootstrap4, JQuery, OAuth, Docker, Ansible, AWS, GCP, Azure, Nodejs
+**Knowledgeable:** Mocha, Chai, Bootstrap4, JQuery, OAuth, Express
 
 <br />
 
