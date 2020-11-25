@@ -85,7 +85,7 @@ Nairobi, KE
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## Projects:
+<!-- ## Projects: -->
 
 ## My GitHub Stats:
 
