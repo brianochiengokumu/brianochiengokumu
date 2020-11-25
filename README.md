@@ -62,22 +62,28 @@ Nairobi, KE
 <br />
 <br />
 
-**Programming Languages:** JavaScript, Python, C++
+**Programming Languages:** JavaScript, Python, C++, Linux(Bash)
 <br />
 
-**Frontend**: JavaScript, HTML5, CSS3, SCSS, Angular, React, Redux, UI.
+**Preferred Environment**: Linux, MacOs(unix), Windows.
 <br />
 
-**Backend:** Node.js, Django.
+**Frontend**: JavaScript, HTML5, CSS3, SCSS, Angular10, React17, XD.
 <br />
 
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis.
+**Backend:** Node.js, Flask, Django.
 <br />
 
-**Devops Tools:** Docker, Kubernetes, Ansible, AWS, GCP, Azure.
+**Databases:** PostgreSQL, MariaDB/MySQL, MongoDB, Redis.
 <br />
 
-**Knowledgeable:** Mocha, Chai, Bootstrap4, JQuery, OAuth, Express.
+**Networking:** Routing, Switching, TroubleShooting.
+<br />
+
+**Devops Tools:** Docker, Kubernetes, Ansible, AWS, GCP, Azure, Vagrant, Nginx
+<br />
+
+**Knowledgeable:** Bootstrap4, JQuery, OAuth, Express, GraphQL, Numpy, Matplotlib, Pandas, Seaborn
 <br />
 
 <!-- # Blog posts
