@@ -65,19 +65,23 @@ Nairobi, KE
 ### Proficient:
 
 <br />
-Programming Languages: JavaScript, Python, C++
+
+**Programming Languages:** JavaScript, Python, C++
 <br />
-Frontend: JavaScript, HTML5, CSS3, SCSS, Angular, React, Redux, UI
+
+**Frontend**: JavaScript, HTML5, CSS3, SCSS, Angular, React, Redux, UI
 <br />
-Backend: Node.js Django
+
+**Backend:** Node.js Django
 <br />
-Databases: PostgreSQL, MySQL, MongoDB, Redis
+
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis
 <br />
-Devops Tools: Docker, Kubernetes, Ansible, AWS GCP Azure.
+
+**Devops Tools:** Docker, Kubernetes, Ansible, AWS GCP Azure.
 <br />
 
 **Knowledgeable:** Mocha, Chai, Bootstrap4, JQuery, OAuth, Express
-
 <br />
 
 <!-- # Blog posts
