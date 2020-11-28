@@ -98,9 +98,8 @@ Nairobi, KE
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=brianochiengokumu&show_icons=true&hide_border=true" />
 
 ### Link to resume:
-
-
 https://drive.google.com/file/d/1Myhf5V0MWbWc_bsW5bKupakVuGu83bdA/view?usp=drivesdk
+
 
 [website]: https://brianochiengokumu.com
 [github]: https://github.com/brianochiengokumu
