@@ -17,7 +17,7 @@ Nairobi, KE
 - 🔭 Currently Developing web-apps, doing automations, scripting and running test labs
 - 🌱 I’m currently learning SEO, Mpesa integration Batch-SMS, and Testing 🤣
 - 👯 I’m looking to collaborate with other Developers and engineers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm an advocate of general knowledge
 
 ### Spotify Playing 🎧
