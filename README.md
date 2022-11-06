@@ -95,7 +95,6 @@ Nairobi, KE
 
 ### Link to resume:
 
-https://drive.google.com/file/d/1Myhf5V0MWbWc_bsW5bKupakVuGu83bdA/view?usp=drivesdk
 
 [website]: https://brianochiengokumu.com
 [github]: https://github.com/brianochiengokumu
