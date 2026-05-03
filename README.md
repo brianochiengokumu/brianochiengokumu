@@ -8,13 +8,13 @@
 
 ---
 
-## 🚀 Lead Data Engineer | Technical Strategy Consultant
+## 🚀 Lead Data Engineer | Management Consultant
 
-I bridge the gap between high-level business strategy and scalable data infrastructure. With a robust foundation in Electronics and Computer Engineering and deep experience in enterprise technical consulting, I specialize in architecting distributed systems, building resilient data pipelines, and leading cross-functional teams to drive digital transformation.
+I bridge the gap between high-level business strategy and scalable data infrastructure. Currently a Management Consultant at EY, I blend a robust foundation in the Governance and Infrastructure space with Big 4 enterprise consulting experience. I specialize in designing distributed systems, building resilient data pipelines, and leading cross-functional teams to drive large-scale business and digital transformation.
 
-- 🔭 **Currently Architecting:** Enterprise-grade data pipelines, modern data warehousing solutions, and scalable cloud-native infrastructure.
+- 🔭 **Currently Architecting:** Enterprise-grade data pipelines, modern data warehousing solutions, and scalable cloud-native infrastructure for global clients.
 - 🌱 **Currently Mastering:** Advanced distributed computing and containerized orchestration.
-- 💼 **Domain Expertise:** Data Engineering, Enterprise Architecture, Systems Integration, and Technical Team Leadership.
+- 💼 **Domain Expertise:** Data Engineering, Enterprise Architecture, IT Strategy, and Technical Team Leadership.
 - ⚡ **Fun Fact:** I optimize my daily performance through custom-built operating systems for structured deep work blocks and high-intensity kettlebell training.
 
 ---
